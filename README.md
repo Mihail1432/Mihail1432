@@ -10,23 +10,14 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a> 
 </div>
-Welcome to My GitHub Profile! 👋
-Hello! I'm Mykhailo, a passionate Python developer with over 3 years of hands-on experience building robust and dynamic web applications. My expertise lies in leveraging frameworks like Django and Flask to craft scalable, secure, and high-performance websites tailored to diverse needs.
 
-Beyond web development, I specialize in creating Telegram bots that bring automation, interactivity, and utility to users. With a strong focus on clean code, modularity, and maintainability, I enjoy tackling complex challenges and turning ideas into functional solutions.
 
-🛠️ My Tech Stack Includes:
-Python (Core and Advanced)
-Django: End-to-end web application development
-Flask: Lightweight and fast API creation
-Telegram Bot API: Automating workflows and enhancing communication
-Front-end Integration: HTML, CSS, JavaScript basics for full-stack functionality
-🌟 What Drives Me:
-Crafting user-focused applications
-Continuous learning and staying updated with the latest trends in Python and web development
-Collaborating on impactful projects with fellow developers
-Check out my repositories below to see some of the work I’ve done. Feel free to connect or collaborate—I’m always excited to work on meaningful projects and contribute to the open-source community!
 
+# 👋 Hi, I’m Mikhail!  
+
+- 💻 **Python Developer** with 3 years of experience  
+- 🌐 Specializing in **Django**, **Flask**, and **Telegram Bots**  
+- 🚀 Passionate about building impactful web applications  
 
 
 
