@@ -13,7 +13,7 @@
 
 
 
-# 👋 Hi, I’m Mikhail!  
+# 👋 Hi, I’m Mykhailo!  
 
 - 💻 **Python Developer** with 3 years of experience  
 - 🌐 Specializing in **Django**, **Flask**, and **Telegram Bots**  
